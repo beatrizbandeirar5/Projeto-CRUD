@@ -29,7 +29,7 @@
 		</form>
 				 
 				 </br>
-				 <h1>Cadastro Cliente</h1> 
+				 <h1>Cadastro Franquia</h1> 
 		<form  action="acao.php?cadastrar2=true"  method="post">
 			 <fieldset>
 				<input name="nome_franquia" placeholder="Nome da Franquia" required/>
